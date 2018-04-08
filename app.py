@@ -1,4 +1,5 @@
-# a brief utilization of dijkstra algorithm on a word ladder puzzle, with a refined indexing method for looking up words efficiently.
+# a brief utilization of dijkstra algorithm on a word ladder puzzle, 
+# with a refined indexing method for looking up words efficiently.
 
 
 from collections import deque, defaultdict
