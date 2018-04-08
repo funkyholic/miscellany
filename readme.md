@@ -1,4 +1,4 @@
-##challenge 
+## challenge   
 input: two words A and B and the cost of each modification ways
 output: a chain of words starting from A, ending with B. 
 Each step of the change must follow the following four ways:
